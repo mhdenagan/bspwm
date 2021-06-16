@@ -1,0 +1,26 @@
+
+IMAPStore dimitrije.r@live.com-remote
+Host imap-mail.outlook.com
+Port 993
+User dimitrije.r@live.com
+Pass r@sLJic4.4
+AuthMechs LOGIN
+SSLType IMAPS
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+MaildirStore dimitrije.r@live.com-local
+Subfolders Verbatim
+Path /home/dmtr/.local/share/mail/dimitrije.r@live.com/
+Inbox /home/dmtr/.local/share/mail/dimitrije.r@live.com/INBOX
+Flatten .
+
+Channel dimitrije.r@live.com
+Expunge Both
+Far :dimitrije.r@live.com-remote:
+Near :dimitrije.r@live.com-local:
+Patterns * !"[Gmail]/All Mail"
+Create Both
+SyncState *
+MaxMessages 0
+ExpireUnread no
+# End profile

@@ -1,0 +1,1 @@
+batsignal -b -e -w 20 -c 10 -d 5 -f 99 -W Battery low. Please charge. -C Battery low. Please charge. -D systemctl suspend -F Battery full. Unplug. -I /home/dmtr/Downloads/1.jpg
