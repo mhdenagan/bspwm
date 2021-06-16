@@ -1,0 +1,100 @@
+Some bashrc recommendations and what I use
+bashrc
+:h
+exit
+q
+quit
+:h
+:login
+bora dugic
+bora dugic
+1 fullscreen
+1 --fullscreen
+:h
+:login
+:help
+zajdi zajdi bora dugic
+:r
+14 -d
+-c
+--region=RU --trending:Music
+--region=RU --trending:
+--region=RU --trending:-c
+--region=RU --trending:-c Music
+-h
+bora dugic
+--comments=1
+--comments=Bora Dugic - Tren
+bora dugic tren --comments
+bora dugic tren --comments=https://www.youtube.com/watch?v=FnJ67oAxVQ4
+luke smith
+1 -c
+:R
+:r
+exit
+bora dugic
+\t
+bora dugic
+:n
+bora dugic
+:i1
+:i1
+:b
+:d2
+:i5
+:c1
+exit
+:subscribe 2
+:subscribe=2
+:like=1
+:login
+:login
+:i13
+:i4
+:i7
+:i10
+:i17
+leb i sol
+:i1
+:i3
+:i4
+:i12
+smak ljudi nije fer
+:i1
+ako umram il zaginam
+:i1
+дрейзин берёзка
+:i1
+vrcavo kolo bora dugic
+:i1
+:i8
+:i1
+:i1
+lenovo trackpad
+yala brat 
+bora dugic
+queen 
+i:2
+queen
+:i2
+bijelo dugme ako mozes zaboravi
+:i10
+:i2
+варламов
+варламов как бомбили белград
+Barbara Pravi deda
+barbara
+barbara pravi deda
+2\
+:i2
+:i18
+l'altra dimensione
+:i3
+caroline maneskin\
+:i1
+venti anni maneskin
+:i1
+lontano maneskin
+:i1
+miyagi patron
+:i2
